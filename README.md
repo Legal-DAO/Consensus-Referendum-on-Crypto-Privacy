@@ -1,6 +1,6 @@
 # Consensus-Referendum-on-Crypto-Privacy
 
-2023.1.6
+2023.1.6 Ding
 
 We invite you to join this Consensus Referendum on Crypto Privacy Law. And here, we will give you a brief overview of what we are doing, how you may participate, and what we have already done so far.
 
