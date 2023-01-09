@@ -92,7 +92,7 @@ As an inclusive community, LegalDAO has gathered competent people to make this h
 ## For developers and potential partners
 
   - Share your valuable opinions and insights on crypto privacy protection
-  - Help us promote this referendum and attract more crypto citizens to participate (click here to see our invitation letter)
+  - Help us promote this referendum and attract more crypto citizens to participate (click [here](https://github.com/Legal-DAO/Consensus-Referendum-on-Crypto-Privacy/blob/main/Invitation%20Letter%20on%20Joining%20the%20Consensus%20Referendum%20on%20Crypto%20Privacy%20Law.md) to see our invitation letter)
   
 # New to Github? Guidance for Beginners
 
