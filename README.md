@@ -185,7 +185,7 @@ We fully respect your efforts and contributions to this project. A certain amoun
 
 Thanks for your support and your donations will be used to maintain the website. With your support, we can do it better.
 
-ERC-20 Address: 0xB9f8995bE2B6f4336f6D2226533c7F7C18C53715
+ERC-20 Address: 0x4546D37A3274D87f543bAE095A75BaE40820BD89
 
 
 # Contact Us 
@@ -193,11 +193,13 @@ ERC-20 Address: 0xB9f8995bE2B6f4336f6D2226533c7F7C18C53715
 
 [LegalDAO Official Website](https://www.legal-dao.org/)
 
+[LegalDAO Discord](https://discord.gg/S9vVCJbbb5)
+
 [LegalDAO EN Twitter](https://twitter.com/Legal_DAO)
 
 [LegalDAO CN Twitter](https://twitter.com/LegalDAO_CN)
 
-[2023 Crypto Consensus Referendum](https://twitter.com/ccr_2023?s=11&t=Bydxg-J-dUzhCMd9ymgJYw)
+[2023 Crypto Consensus Referendum Twitter](https://twitter.com/ccr_2023?s=11&t=Bydxg-J-dUzhCMd9ymgJYw)
 
 [Notion](https://legaldao.notion.site/Legal-DAO-20bdbd8fd1264d9fb4598b0f76aa3f6b)
 
