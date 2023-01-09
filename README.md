@@ -168,13 +168,12 @@ We provide detailed guidance for beginners. You may quickly master basic command
 
 # Resource 
 
-Here are some resources that you may find helpful.  
-
+Here are some resources that you may find helpful, please check it [here](https://github.com/Legal-DAO/Consensus-Referendum-on-Crypto-Privacy/blob/main/Resource.md).
 
 
 **Disclaimer**
 - **We fully respect your IP rights and if there is an IP rights infringement, please contact us at legaldaocrypto@gmail.com**
-- **Any third party contents are their own and we do not make any guarantee of their accuracy. Please do your own research before you make any decision.**
+- **Any third party content or matierial are their own. We do not claim IP rights to them or make any guarantee of their accuracy. Please do your own research before you make any decision.**
 
 # Contribution Rewards
 
