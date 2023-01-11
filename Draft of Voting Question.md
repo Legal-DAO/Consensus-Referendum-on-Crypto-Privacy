@@ -183,7 +183,7 @@ Besides, due to the particularity of blockchain technology, for Web3 services, a
   
 1.1.1 Data on the blockchain is publicly visible and/or accessible.
     
-1.1.2 Data on the blockchain cannot be edited or deleted.
+1.1.2 Data on the blockchain cannot be edited or deleted technically.
     
 1.2 If the service providers only provide application service on the blockchain, they cannot custody or control over blockchains, and cannot be responsible for the security of data on the blockchain.
   
