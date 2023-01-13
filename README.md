@@ -108,7 +108,7 @@ We provide detailed guidance for beginners. You may quickly master basic command
 ![image](https://user-images.githubusercontent.com/103235074/211226887-1494d5eb-d105-4ee4-9ff1-3469ea265ba1.png)
 
 
-- **Step2: open the *Draft of Voting Question* doc by clicking [here](https://github.com/Legal-DAO/Consensus-Referendum-on-Crypto-Privacy/blob/main/Draft%20of%20Voting%20Question.md) and clicking on the `change` button on the top right of this page**
+- **Step2: open "Draft of Voting Questions.md" by clicking [here](https://github.com/Legal-DAO/Consensus-Referendum-on-Crypto-Privacy/blob/main/Draft%20of%20Voting%20Question.md) and clicking on the `change` button on the top right of this page**
 
 ![image](https://user-images.githubusercontent.com/103235074/211227082-5fd4b2ca-0b20-4da1-968f-971337138eda.png)
 
@@ -131,7 +131,7 @@ We provide detailed guidance for beginners. You may quickly master basic command
 ## If you want to propose a new question
 
 
-- **Step1: open our *Question Proposal Template* doc by clicking [here](https://github.com/Legal-DAO/Consensus-Referendum-on-Crypto-Privacy/blob/main/Question%20Proposal%20Template.md)**
+- **Step1: open "Question Proposal Template.md" by clicking [here](https://github.com/Legal-DAO/Consensus-Referendum-on-Crypto-Privacy/blob/main/Question%20Proposal%20Template.md)**
 
 - **Step2: make changes and fill out the form**
 
@@ -164,6 +164,8 @@ We provide detailed guidance for beginners. You may quickly master basic command
 
 
 **Please note: once you open a pull request, your content will be available to the public. If you want to keep it private, please send your work to our email address at legaldaocrypto@gmail.com**
+
+**If you have any problem, please leave your comment [here](https://github.com/Legal-DAO/Consensus-Referendum-on-Crypto-Privacy/issues/8).**
 
 
 # Resource 
