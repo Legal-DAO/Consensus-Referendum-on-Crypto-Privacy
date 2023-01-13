@@ -1,5 +1,6 @@
 # Consensus-Referendum-on-Crypto-Privacy
 
+- [中文版](https://github.com/Legal-DAO/Consensus-Referendum-on-Crypto-Privacy/blob/main/%E4%B8%AD%E6%96%87%E7%89%88.md)
 
 - [What is Consensus Referendum on Crypto Privacy?](#what-is-consensus-referendum-on-crypto-privacy)
 - [Our Proposed Framework](#our-proposed-framework)
