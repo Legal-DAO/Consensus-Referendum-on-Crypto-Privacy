@@ -1,4 +1,4 @@
-# Draft of Voting Question
+# Draft of Voting Questions
 
 
 ## 1.Crypto privacy: objects, scenarios and types
