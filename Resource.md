@@ -16,9 +16,9 @@ Here are some resources that we find helpful to understand the issues related to
 
 ## Contribute
 
-Updates on this resources list are encouraged. If you find any helpful resource, feel free to make changes to this doc and open a pull request. Very importantly, please check the IP rights protection requirements of such matierials before sharing. 
+Updates on this resources list are encouraged. If you find any helpful resource, feel free to make changes to this doc and open a pull request. Very importantly, please check the IP rights protection requirements of such materials before sharing. 
 
 ## Disclaimer
 
 - We fully respect your IP rights and if there is an IP rights infringement, please contact us at legaldaocrypto@gmail.com
-- Any third party content or matierial are their own. We do not claim IP rights to them or make any guarantee of their accuracy. Please do your own research before you make any decision.
+- Any third party content or material are their own. We do not claim IP rights to them or make any guarantee of their accuracy. Please do your own research before you make any decision.
