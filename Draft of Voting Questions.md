@@ -1,7 +1,7 @@
 # Draft of Voting Questions
 
 
-## 1.Crypto privacy: objects, scenarios and types
+## 1. Crypto privacy: objects, scenarios and types
 
 > Suggested topics for consideration/discussion
 > - the scope and coverage of personal data
@@ -16,9 +16,9 @@ B. No
 **Background infomation**
 
 > Suggested topics for consideration/discussion
-> - There are still few legislations tailored for blockchain. Most existing legislations relevant to blockchains are general and pricipled. Hence, it is necessary to have industry self-regulation in order to accommodate the rapid development of the blockchain industry.
+> - There are still few legislations tailored for blockchain. Most existing legislations relevant to blockchains are general and principled. Hence, it is necessary to have industry self-regulation in order to accommodate the rapid development of the blockchain industry.
 
-There are many reasons to establish privacy protection rules for the crypto world. Firstly, there is still rare privacy-related legislation for blockchain in various jurisdictions. Most existing legislations relevant to blockchains are general and principled. Hence, it is necessary to have industry self-regulation in order to accommodate the rapid development of the blockchain industry. Secondly, one feature of blockchain transactions is that the address and the amount of transaction, which are private by nature, are accessible to all users. Everyone could therefore become a data processor of it,  and they can even summarize them into personal information such as consumption pattern, participation of project, and lifestyle. Thus, such privacy information of on-chain transaction parties could be leaked and be processed by others. However, opposite views are also prevalent. Firstly, as discussed during the nascent years of cyberspace, it's disputed whether it's necessary to tailor the law for the internet. Epitomized in Frank Easterbrook's analogy "The Law of the Horse" , the opinion that there is no need to define cyberlaw as a unique section of legal studies and litigation eventually dominated. Secondly, the disclosure  of on-chain transaction information is one of the reasons why the blockchain is trustworthy. Considering that on-chain data does not involve real identity, it should not be deemed as privacy, and there is no need to be protected. Third, the crypto world is inherently incompatible with regulation and centralization. For instance, centralized exchanges that require KYC could cooperate with the judicial authorities by freezing accounts or giving them access to certain data.  As a result, Privacy protection rules may instead become the sword of Damocles hanging over people who conduct transactions on the blockchain.
+There are many reasons to establish privacy protection rules for the crypto world. Firstly, there is still rare privacy-related legislation for blockchain in various jurisdictions. Most existing legislations relevant to blockchains are general and principled. Hence, it is necessary to have industry self-regulation in order to accommodate the rapid development of the blockchain industry. Secondly, one feature of blockchain transactions is that the address and the amount of transaction, which are private by nature, are accessible to all users. Everyone could therefore become a data processor of it,  and they can even summarize them into personal information such as consumption pattern, participation in project, and lifestyle. Thus, such privacy information of on-chain transaction parties could be leaked and be processed by others. However, opposite views are also prevalent. Firstly, as discussed during the nascent years of cyberspace, it's disputed whether it's necessary to tailor the law for the internet. Epitomized in Frank Easterbrook's analogy "The Law of the Horse", the opinion that there is no need to define cyberlaw as a unique section of legal studies and litigation eventually dominated. Secondly, the disclosure  of on-chain transaction information is one of the reasons why the blockchain is trustworthy. Considering that on-chain data does not involve real identity, it should not be deemed as privacy, and there is no need to be protected. Third, the crypto world is inherently incompatible with regulation and centralization. For instance, centralized exchanges that require KYC could cooperate with the judicial authorities by freezing accounts or giving them access to certain data.  As a result, Privacy protection rules may instead become the sword of Damocles hanging over people who conduct transactions on the blockchain.
 
 ### 1.2 Do you think there is any risk that your real identity could be exposed during your on-chain activities?
 
@@ -28,16 +28,16 @@ B. No
 
 **Background information**
 > Suggested topics for consideration/discussion
-> - The underlying technology of the crypto world is the distributed ledger technology represented by the blockchain. Blockchain cannot guarantee complete anonymity , and thus leads to the risk of  personal information leakage.
+> - The underlying technology of the crypto world is the distributed ledger technology represented by the blockchain. Blockchain cannot guarantee complete anonymity, and thus leads to the risk of  personal information leakage.
  Whether your real identity is exposed during  on-chain interactions depends on following factors:
  
-1. Do the on-chain data contain information that could be used to identify an individual,such as user's name? If the on-chain data is merely about the transaction, then it cannot be used to identify an individual without being associated with other data.
+1. Do the on-chain data contain information that could be used to identify an individual, such as user's name? If the on-chain data is merely about the transaction, then it cannot be used to identify an individual without being associated with other data.
 
 2. Could the on-chain data be associated with other data to identify an individual? For instance, some on-chain data demonstrate the transaction of a person. Meanwhile, that person mentions the transaction on social media. Therefore, the blockchain analysis tools that associate the information on the chain with those on social media could reveal the real identity of this person.
 
 In general, information that does not contain the identity cannot be used to identify the specific individual without being associated with other information. 
 
-### 1.3 As you know, when you are using Metamask to register an Ethereum account, a private key and a corresponding public key will be generated for you. The public key is stored publicly on the blockchain , while the private key is stored on your device. Do you think your public key should be protected as privacy?
+### 1.3 As you know, when you are using Metamask to register an Ethereum account, a private key and a corresponding public key will be generated for you. The public key is stored publicly on the blockchain, while the private key is stored on your device. Do you think your public key should be protected as privacy?
 
 A. Yes 
 
@@ -47,7 +47,7 @@ B. No
 
 Initially, all encryption algorithms only involve one key, so both encryption and decryption could only be performed  with this one key, and such process is called symmetric encryption. However, the application scenarios of symmetric encryption are limited, thus, asymmetric encryption algorithms were created to expand the application range of encryption algorithms. The asymmetric encryption algorithms use a pair of keys, which consist of a  public key and a private key. Everyone could view the public key, but this characteristic will not affect its security adversely. The private key needs to be kept by the holder of that pair of keys and  he/she should avoid  disclosing it to other people. One classic application of asymmetric encryption is the digital signature. For example, if Alice wants to send a file to Bob, she could sign the file with her private key so that Bob can check if a malicious third party has modified the file during the transmission. And after Bob received that file, he could use Alice's previously disclosed public key to verify whether the file was sent and signed by Alice, and whether it had never been modified by others during the transmission.
 
-### 1.4 When you use Metamask to register an Ethereum account, in addition to the public and private keys,  a unique address will also be generated. And when you initiate a transaction on the chain, the identities of both parties to the transaction are represented by their respective addresses, which are published on the blockchain . Do you think addresses should be protected as privacy?
+### 1.4 When you use Metamask to register an Ethereum account, in addition to the public and private keys,  a unique address will also be generated. And when you initiate a transaction on the chain, the identities of both parties to the transaction are represented by their respective addresses, which are published on the blockchain. Do you think addresses should be protected as privacy?
 
 A. Yes 
 
@@ -56,7 +56,7 @@ B. No
 **Background information**
 In the blockchain world, the address generated from the user's public key could be deemed as both the account and the identifier of the user. In a transaction, the sender and the recipient are respectively identified with their addresses. Hence, the transaction history of the address could be utilized to analyze the transaction habits of the person or entity behind the address. Based on those transaction habits, a user portrait of their owner could be made and it will be possible to infer the real identity of him/her. For example, a person frequently makes purchases from the same merchant, and all purchase records of the merchant are available to the public. Then, the spending habits of this person could be inferred from the above information. This inference could be helpful to find the person's identity in real life, or if not, to narrow down the scope.
 
-### 1.5 When you initiate a transaction on a blockchain, the transaction amount will be published on the it. Do you think the transaction amount should  be protected as privacy?
+### 1.5 When you initiate a transaction on a blockchain, the transaction amount will be published on it. Do you think the transaction amount should be protected as privacy?
 
 A. Yes 
 
@@ -100,9 +100,9 @@ B. No
 > - the  regulatory status quo of the information of financial institutions' accounts/addresses (e.g. some data obtained from relevant research)
 > - Current protection of the information of individual user accounts/addresses
 
-From the collapse of FTX, we realize that centralized crypto exchanges are in black box, being more opaque than tradition finance . In the crypto world, which takes transparency, fairness, and decentralization as the highest priority, the existence of such an uncontrolled leviathan is a per se risk. Although exchanges subsequently launched the Merkle Tree proof to prove that they haven't  misappropriated user deposits and reserves, it cannot prove that they have no threat to the transparency, fairness, and safety of the crypto world(it's still insufficient for this purpose). But this move does have positive implications. It indicates a trend toward transparency.
+From the collapse of FTX, we realize that centralized crypto exchanges are in black box, being more opaque than traditional finance. In the crypto world, which takes transparency, fairness, and decentralization as the highest priority, the existence of such an uncontrolled leviathan is a per se risk. Although exchanges subsequently launched the Merkle Tree proof to prove that they haven't  misappropriated user deposits and reserves, it cannot prove that they have no threat to the transparency, fairness, and safety of the crypto world(it's still insufficient for this purpose). But this move does have positive implications. It indicates a trend toward transparency.
 
-### 1.9 Do you think  on-chain analysis tools should be restricted from analyzing individual users' accounts/addresses, such as generating user profiles according to their on-chain activities , or  they should at least be restricted from publishing them ?
+### 1.9 Do you think  on-chain analysis tools should be restricted from analyzing individual users' accounts/addresses, such as generating user profiles according to their on-chain activities, or they should at least be restricted from publishing them?
 
 A. Yes 
 
@@ -140,10 +140,10 @@ C. I am informed but I don't consent
 
 > Suggested topics for consideration/discussion
 > - The unique data storage method of the distributed ledger technology makes on-chain data public and transparent
-> - Treatment of personal information for common public blockchians, e.g. The disclosure of transaction address and balance on the Ethereum blockchain
+> - Treatment of personal information for common public blockchains, e.g. The disclosure of transaction address and balance on the Ethereum blockchain
 > - How does the factor of user consent impact their data rights?
 
-According to GDPR, a person has the right to require the data controller to erase personal data concerning him or her without undue delay under certain conditions. If the controller has made the personal data public,the controller should take reasonable steps to inform controllers who are processing the personal data that the data subject has requested the erasure by such controllers of any links to, or copies or replications of, that personal data. 
+According to GDPR, a person has the right to require the data controller to erase personal data concerning him or her without undue delay under certain conditions. If the controller has made the personal data public, the controller should take reasonable steps to inform controllers who are processing the personal data that the data subject has requested the erasure by such controllers of any links to, or copies or replications of, that personal data. 
 The prerequisite for the person to exercise the right to erase is that the data controller shall inform the method and conditions for exercising the right, which is also the requirement of the principle of transparency.
 
 However, for the data on the chain, due to the distributed ledger, all the data on the chain is fully stored and made public by all nodes, so the data on the chain cannot be deleted technically.
@@ -158,9 +158,9 @@ C. I am informed but I don't consent
 
 **Background information**
 
-For example, the information about the transaction of purchasing an NFT is accessible to the public, so everyone can look up the etherscan to find the purchaser address, seller address, transaction amount, transaction time, and other information about this transaction. With the assitance of information on Web2's social media and the usage scenario of that NFT, the identity information of the buyer might be disclosed, even though Web3's user identity information is anonymous.
+For example, the information about the transaction of purchasing an NFT is accessible to the public, so everyone can look up the etherscan to find the purchaser address, seller address, transaction amount, transaction time, and other information about this transaction. With the assistance of information on Web2's social media and the usage scenario of that NFT, the identity information of the buyer might be disclosed, even though Web3's user identity information is anonymous.
 
-### 2.3 When you use Web3 applications such as Metamask wallet, should it expressly inform you the way they store and process data (such as on a blockchain or centralized servers), and ask for your consent regarding it?
+### 2.3 When you use Web3 applications such as Metamask wallet, should it expressly inform you of the way they store and process data (such as on a blockchain or centralized servers), and ask for your consent regarding it?
 
 A. Yes 
 
@@ -169,10 +169,10 @@ B. No
 **Background information**
 
 > Suggested topics for consideration/discussion
-> - Under Web2, online platforms meet their data complicant obligation through privacy policies, which expressly inform users how they process, such as collect, utilize and store personal information, and the informed consent clause is at the core of them.
+> - Under Web2, online platforms meet their data compliance obligation through privacy policies, which expressly inform users how they process, such as collect, utilize and store personal information, and the informed consent clause is at the core of them.
 > - Under Web3, how could applications protect users' right to be informed and get users' consent? In addition, what should be disclosed in privacy policies?
 
-According to data protection laws in most countries, data storing and processing require the consent of the user. In order to ensure that the user's consent is voluntary and clear, the data controller shall inform the user in advance. The context of the notifciation usually includes the identity and the contact details of the controller, the contact details of the data protection officer, the purposes of the processing, the location of storage, the storage period, the measures taken by the controller to protect data security and so on. In the Web2 era, this kind of notification is often achieved through privacy protocols.
+According to data protection laws in most countries, data storing and processing require the consent of the user. In order to ensure that the user's consent is voluntary and clear, the data controller shall inform the user in advance. The context of the notification usually includes the identity and the contact details of the controller, the contact details of the data protection officer, the purposes of the processing, the location of storage, the storage period, the measures taken by the controller to protect data security and so on. In the Web2 era, this kind of notification is often achieved through privacy protocols.
 
 For the Web3 service providers, they need to inform users of traditional items, such as types of data (including information users provide and information providers collect automatically), use of data, disclosure/sharing of data, international transfer, the retention and security of data, rights of data subject, teenager’s protection and so on.
 
@@ -227,7 +227,7 @@ B. No
 > Suggested topics for consideration/discussion
 > - How could technologies such as zero-knowledge proof, privacy enhancing computation protect on-chain privacy, and allow/guarantee flow of data on the blockchain.
 
-Protecting your privacy on-chian can be easily ignored at the beginning of your crypto journey when you start  purchasing digital assets. Seriously speaking, you will be an easy target of cybercrime and theft.
+Protecting your privacy on-chain can be easily ignored at the beginning of your crypto journey when you start  purchasing digital assets. Seriously speaking, you will be an easy target of cybercrime and theft.
 
 Privacy will be more important when it comes to reality if your sensitive transactions are revealed to the public which you are not intending to do. You might use crypto to pay for sensitive products, salary incomes, medical bills, financial accounts, children's education expenses, or information subscriptions that you would rather not tell, all of which after discovery could put you into a dangerous position for blackmail or harassment, or to a spotlight position for embarrassment and awkwardness.
 
@@ -246,7 +246,7 @@ DAO is the organizational structure  of Web3. It operates on the principle of   
 
 Based upon the above, while it seems feasible to maintain privacy protection/service tools through  the  "consensus" of DAO members, DAO's  legal compliance issues have to be considered.
 
-Firstly, major Web3 jurisdictions do not explicitly recognize the DAO as a legal entity, which leaves  DAOs in an ambiguous and awkward position. For example, Tornado Cash, a virtual currency mixer that operates on the Ethereum blockchain and indiscriminately facilitates anonymous transactions by obfuscating their origin, destination, and counterparties, with no attempt to determine their origin., was sanctioned by the OFAC for assisting criminals which are a threat to U.S. national security. Tornado Cash is a on-chain smart contract instead of a legal entity, it is denied access to OFAC for sanctions relief. In addition, it is unable to meet its KYC, anti-money laundering AML compliance obligations under FinCEN and the U.S. Bank Secrecy Act as a on-chain smart contract.
+Firstly, major Web3 jurisdictions do not explicitly recognize the DAO as a legal entity, which leaves  DAOs in an ambiguous and awkward position. For example, Tornado Cash, a virtual currency mixer that operates on the Ethereum blockchain and indiscriminately facilitates anonymous transactions by obfuscating their origin, destination, and counterparties, with no attempt to determine their origin., was sanctioned by the OFAC for assisting criminals which are a threat to U.S. national security. Tornado Cash is an on-chain smart contract instead of a legal entity, it is denied access to OFAC for sanctions relief. In addition, it is unable to meet its KYC, anti-money laundering AML compliance obligations under FinCEN and the U.S. Bank Secrecy Act as an on-chain smart contract.
 
 Secondly, DAO members may be jointly and severally liable for DAO's behaviors, which may limit members' participation in DAO governance. We can find the case CFTC v. Ooki DAO in this regard. However, corporate legal entities rarely require their shareholders to bear joint liability.
 
