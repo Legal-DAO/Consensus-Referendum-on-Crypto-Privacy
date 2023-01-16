@@ -176,7 +176,7 @@ Here are some resources that you may find helpful, please check it [here](https:
 
 **Disclaimer**
 - **We fully respect your IP rights and if there is an IP rights infringement, please contact us at legaldaocrypto@gmail.com**
-- **Any third party content or matierial are their own. We do not claim IP rights to them or make any guarantee of their accuracy. Please do your own research before you make any decision.**
+- **Any third party content or material are their own. We do not claim IP rights to them or make any guarantee of their accuracy. Please do your own research before you make any decision.**
 
 # Contribution Rewards
 
