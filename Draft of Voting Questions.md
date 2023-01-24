@@ -272,3 +272,20 @@ Currently, the following regulatory-friendly privacy protection schemes exist:
 2. Using a privacy solution fulfilling regulatory obligations: On August 8, 2022, the U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctioned virtual currency mixer Tornado Cash and added it to the SDN List. However, Zcash, the project that provides a service to conceal transaction information, has yet to be sanctioned despite years of existence. One possible reason for this difference might be that Zcash balance the regulation obligations and the privacy protection. Firstly, revealing transaction information is optional in Zcash, i.e., Zcash allows people to selectively share address and transaction information(including the sender and the recipient) for auditing or regulatory compliance. Besides, Zcash provides an option that allows users to create auditor keys, while regulators who receive auditor keys could review and verify transactions.
 
 3. Using third-party tools for monitoring: TRM Labs, for example, can monitor an address you want to interact with so that it can monitor all the hundreds of addresses that have transactions with the address you want to interact with. Subsequently, big data screening could be executed to prove whether it is a secure address. Meanwhile, it could free Defi protocols from conducting KYC with all the users. These characteristics make the third-party tools a solution that could balance regulation and privacy.
+
+### 3.4 Do we need native crypto-based dispute resolution tools?
+
+A. Yes 
+
+B. No
+
+**Background information**
+As the crypto world continues to evolve and gain mainstream acceptance, it is crucial that we have a framework in place to effectively resolve disputes that may arise. The decentralized nature of the crypto space, as well as the anonymity of many transactions, presents a unique set of challenges that current legal systems may not fully address.
+
+One of the key challenges in resolving disputes in the crypto world is the lack of clear jurisdiction. Transactions can take place on a global scale, and it may not be immediately clear which legal system should be involved in resolving a dispute. Furthermore, the anonymity of many crypto transactions makes it difficult to identify the parties involved, which can further complicate the dispute resolution process.
+
+Another challenge is the lack of enforceability of decisions made in the crypto space. Unlike the physical world, where legal decisions can be enforced by law enforcement, it can be difficult to enforce decisions made in the crypto world. This is due to the decentralized nature of the crypto space and the lack of a central authority to enforce decisions.
+
+To effectively resolve disputes in the crypto world, it is crucial that we develop a framework that addresses these unique challenges. This may include the use of decentralized dispute resolution mechanisms, such as smart contracts or blockchain-based arbitration systems, which can provide a transparent and objective means of resolving disputes. Additionally, the development of clear guidelines and regulations for the crypto space can help provide a framework for resolving disputes and enforcing decisions.
+
+In conclusion, disputes are inevitable in any environment, including the crypto space. However, with the right tools and framework in place, we can ensure that disputes are resolved fairly and efficiently, and that the crypto world continues to evolve and grow in a positive direction. It's important to recognize that crypto world is still in its infancy and we need to continue to monitor and adapt to the ongoing changes and challenges in the crypto space.
